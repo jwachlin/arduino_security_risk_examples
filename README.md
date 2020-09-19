@@ -13,5 +13,8 @@ Third, microcontrollers are often used to control real-world physical devices th
 malfunction due to bugs or intentional sabotage of the code. Better understanding of the risks for developers 
 is really important.
 
+Fourth, the Arduino platform is more and more moving into the internet connected IoT field, with devices like the ESP32
+and ESP8266 supported. While this is great for makers, it can be dangerous if those makers do not understand the risks.
+
 Finally, Arduinos are low-cost, and the development environment is easy to set up, allowing anyone who
 is interested to start learning about security risks.
